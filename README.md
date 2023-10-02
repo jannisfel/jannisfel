@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jannisfel
-- 👀 I’m interested in [shieldbreak](https://github.com/shield-break-net/), [wireway](https://github.com/wirewayproject/) and [placeCH](https://github.com/r-placeCH)
+- 👀 I’m interested in [shieldbreak](https://shield-break.net), [wireway](https://github.com/wirewayproject/) and [placeCH](https://github.com/r-placeCH)
 - 🌱 I’m currently learning NextJS
 
 <!---
